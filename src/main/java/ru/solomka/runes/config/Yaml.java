@@ -18,7 +18,6 @@ public class Yaml {
     private YamlConfiguration yaml = new YamlConfiguration();
     private File file;
 
-    public Yaml() {}
     public Yaml(@NotNull File file) {
         this.file = file;
         if (file.exists()) try {
