@@ -1,0 +1,13 @@
+Messages:
+  COOLDOWN_OVER: "Перезарядка руны &c#{id} &fокончена!"
+  ERROR: "&cПроизошла ошибка!\n &7>> &fПричина: &6{desc}"
+  DEV_RUNE: "Вы {action} руну &c#{id}"
+  UPGRADE_RUNE: "&fУровень руны &c#{id} &fповышена на 1 лвл &7(&d{level}/{max_level}&7)"
+  GIVEN_RUNE: "Вы получили руну &c#{id} &7(&a{rune_type}&7)"
+  TELEPORT_SUCCESS: "Телепортация на локацию прошла успешно!"
+  CHOOSE_ABILITIES: "&fВы &eвыбрали&f способность {ability_name}. &fЧтобы сохранить выбор, нажмите кнопку &a'СОХРАНИТЬ'"
+  SET_LOCATION: "&fВы &6установили&f локацию группе {group_name}"
+  ACTIVATION_ABILITIES: "&fСпособность была успешно применена! Время перезарядки: &9{time} sec"
+  ACTIVE_DELAY: "&fВы не можете это использовать, так как перезарядка еще &cне завершилась&f!"
+  CHOOSE_POTION: "Вы &eвыбрали &fзелье {potion_name}. Чтобы сохранить выбор, нажмите кнопку &a'СОХРАНИТЬ'"
+  SUCCESSFUL_POTION_THROW: "Зелье успешно применено! Время перезарядки: &9{time} sec"

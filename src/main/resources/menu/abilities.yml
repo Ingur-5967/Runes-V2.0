@@ -1,0 +1,63 @@
+Title: "Руны || Раздел способностей, выбор способностей"
+#
+Back:
+  Enable: true
+  Item: STAINED_GLASS_PANE;5
+  Slot: 0
+  Name: "&c<< НАЗАД <<"
+#
+Slots:
+  ALIC:
+    0:
+      Slot: 4
+      ItemView: DIRT
+      Name: ""
+      Lore: []
+  BAT:
+    0:
+      Slot: 5
+      ItemView: DIRT
+      Name: ""
+      Lore: []
+  CHA:
+    0:
+      Slot: 6
+      ItemView: DIRT
+      Name: ""
+      Lore: []
+  E:
+    0:
+      Slot: 7
+      ItemView: DIRT
+      Name: ""
+      Lore: []
+  P:
+    0:
+      Slot: 8
+      ItemView: DIRT
+      Name: ""
+      Lore: []
+  Z:
+    0:
+      Slot: 9
+      ItemView: DIRT
+      Name: ""
+      Lore: []
+  ZEB:
+    0:
+      Slot: 10
+      ItemView: DIRT
+      Name: ""
+      Lore: []
+  HUMAN:
+    0:
+      Slot: 11
+      ItemView: DIRT
+      Name: ""
+      Lore: []
+  KIRIN:
+    0:
+      Slot: 12
+      ItemView: DIRT
+      Name: ""
+      Lore: []

@@ -1,0 +1,14 @@
+Title: "Руны || Зелья, выбор зелья"
+#
+Back:
+  Enable: true
+  Item: STAINED_GLASS_PANE;5
+  Slot: 0
+  Name: "&c<< НАЗАД <<"
+#
+Slots:
+  0:
+    Slot: 0
+    ItemView: DIRT
+    Name: "asdasd"
+    Lore: []

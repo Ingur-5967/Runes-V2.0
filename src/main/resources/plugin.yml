@@ -1,0 +1,7 @@
+name: SRunes
+version: '${project.version}'
+main: ru.solomka.runes.Main
+authors: [ Solomka ]
+commands:
+  runes:
+    usage: /runes

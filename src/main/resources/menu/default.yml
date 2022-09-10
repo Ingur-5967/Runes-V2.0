@@ -1,0 +1,123 @@
+Title: "Руны || Раздел обычных рун"
+#
+Menu:
+  StandardLore:
+    - "&fСостояние: {purchased} &7(&c&l{enabled}&7) "
+    - " "
+    - "&8&l╔⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ "
+    - "&8&l┆ &aОписание: "
+    - "&8&l┆  &c∎ &f{line_one} "
+    - "&8&l╠⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ "
+    - "&8&l┆ &6Информация: "
+    - "&8&l┆  &d∎ &fУровень: &f{level}&7/&f{max_level} "
+    - "&8&l┆  &d∎ &fЭффекты: &f{effects} "
+    - "&8&l╚⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ "
+    - " "
+    - "&c&l* &f{character} "
+#
+Back:
+  Enable: true
+  Item: STAINED_GLASS_PANE;5
+  Slot: 0
+  Name: "&c<< НАЗАД <<"
+#
+Slots:
+  ALIC:
+    0:
+      Slot: 4
+      ItemView: DIRT
+      Name: "&d&l123"
+      #
+      Enable: true
+      Effect: SPEED
+      LineOne: "Выдает бесконечный эффект скорости"
+      Levels: []
+      MaxLevel: 4
+  BAT:
+    0:
+      Slot: 5
+      ItemView: DIRT
+      Name: "&d&l321"
+      #
+      Enable: true
+      Effect: SPEED
+      LineOne: "Выдает бесконечный эффект скорости"
+      Levels: []
+      MaxLevel: 4
+  CHA:
+    0:
+      Slot: 6
+      ItemView: STICK
+      Name: "&d&l324"
+      #
+      Enable: true
+      Effect: SPEED
+      LineOne: "Выдает бесконечный эффект скорости"
+      Levels: []
+      MaxLevel: 4
+  E:
+    0:
+      Slot: 7
+      ItemView: DIRT
+      Name: "&d&lРуна тест"
+      #
+      Enable: true
+      Effect: SPEED
+      LineOne: "Выдает бесконечный эффект скорости"
+      Levels: []
+      MaxLevel: 4
+  P:
+    0:
+      Slot: 8
+      ItemView: DIRT
+      Name: "678"
+      #
+      Enable: true
+      Effect: SPEED
+      LineOne: "Выдает бесконечный эффект скорости"
+      Levels: []
+      MaxLevel: 4
+  Z:
+    0:
+      Slot: 9
+      ItemView: DIRT
+      Name: "978"
+      #
+      Enable: true
+      Effect: SPEED
+      LineOne: "Выдает бесконечный эффект скорости"
+      Levels: []
+      MaxLevel: 4
+  ZEB:
+    0:
+      Slot: 10
+      ItemView: DIRT
+      Name: "089"
+      #
+      Enable: true
+      Effect: SPEED
+      LineOne: "Выдает бесконечный эффект скорости"
+      Levels: []
+      MaxLevel: 4
+  HUMAN:
+    0:
+      Slot: 11
+      ItemView: DIRT
+      Name: "&D-90"
+      #
+      Enable: true
+      Effect: SPEED
+      LineOne: "Выдает бесконечный эффект скорости"
+      Levels: []
+      MaxLevel: 4
+  KIRIN:
+    0:
+      Slot: 12
+      ItemView: STICK
+      Name: "&d-890"
+      #
+      Enable: true
+      Effect: SPEED
+      LineOne: "Выдает бесконечный эффект скорости"
+      Levels: []
+      MaxLevel: 4
