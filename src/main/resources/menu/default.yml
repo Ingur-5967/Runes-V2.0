@@ -17,7 +17,7 @@ Menu:
 #
 Back:
   Enable: true
-  Item: STAINED_GLASS_PANE;5
+  Item: STAINED_GLASS_PANE;6
   Slot: 0
   Name: "&c<< НАЗАД <<"
 #
